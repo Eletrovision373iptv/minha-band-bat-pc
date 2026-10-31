@@ -41,4 +41,6 @@ https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist.m3u8
 https://amg00627-banijay-amg00627c35-tcl-us-4282.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanbr-tclus/playlist.m3u8
 #EXTINF:-1 tvg-id="record_sp" tvg-logo="https://logodownload.org/wp-content/uploads/2014/07/band-logo-0.png" group-title="BAND AFILIADAS",Recordtv SP
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#EXTINF:-1 tvg-id="sbt_ba" tvg-logo="https://logodownload.org/wp-content/uploads/2014/07/band-logo-0.png" group-title="BAND AFILIADAS",Sbt Ba
+https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/chunklist.m3u8
 
