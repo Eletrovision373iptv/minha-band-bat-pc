@@ -31,4 +31,12 @@ https://sbtnews.maissbt.com/3.m3u8
 https://rtmp.irdeb.ba.gov.br/stream/hls/tvehd.m3u8
 #EXTINF:-1 tvg-id="globo_ba" tvg-logo="https://logodownload.org/wp-content/uploads/2014/07/band-logo-0.png" group-title="BAND AFILIADAS",Globo Bahia
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+#EXTINF:-1 tvg-id="ge_tv" tvg-logo="https://logodownload.org/wp-content/uploads/2014/07/band-logo-0.png" group-title="BAND AFILIADAS",GETV
+https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="turma_monica" tvg-logo="https://logodownload.org/wp-content/uploads/2014/07/band-logo-0.png" group-title="BAND AFILIADAS",Turma Monica
+https://amg00740-sofa-amg00740c9-tcl-us-7185.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="jovem_pam" tvg-logo="https://logodownload.org/wp-content/uploads/2014/07/band-logo-0.png" group-title="BAND AFILIADAS",Jovem Pam
+https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="mr_bien" tvg-logo="https://logodownload.org/wp-content/uploads/2014/07/band-logo-0.png" group-title="BAND AFILIADAS",Mr Bien
+https://amg00627-banijay-amg00627c35-tcl-us-4282.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanbr-tclus/playlist.m3u8
 
