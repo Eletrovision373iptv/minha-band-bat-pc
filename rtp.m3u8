@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RTP3.pt" tvg-name="RTP Notícias" group-title="Notícias",RTP Notícias
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
